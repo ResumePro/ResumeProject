@@ -1,1 +1,1 @@
-# ResumeProjectCV.gihub.io
+# ResumeProjectCV.github.io
